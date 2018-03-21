@@ -1,0 +1,2 @@
+TechnicalCoachLead.create(name: "Dakota", email: "dakota@flatironschool.com", password: "hubbub")
+TechnicalCoachLead.create(name: "Enoch", email: "enoch@flatironschool.com", password: "brewhaha")

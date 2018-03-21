@@ -7,4 +7,8 @@ class ApplicationController < Sinatra::Base
     erb :index
   end
 
+  get '/error' do
+    erb :error
+  end
+
 end
